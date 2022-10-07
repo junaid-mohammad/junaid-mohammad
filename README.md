@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Junaid!
-- 👀 I’m interested in working as web developer.
-- 🌱 I’m currently also learning Model Based Programming code generation.
+- 👀 I’m interested in working as a web developer.
+- 🌱 I’m currently also learning Model Based Programming and automated Code Generation.
 - 💞️ I’m looking to collaborate on projects that will help solve real world problems.
-- Fun fact: I am a moderator for a Facebook group with 1 million members.
+- ⚡⚡ Fun fact: I am a moderator for a Facebook group with over 1 million members.
 - 📫 Reach out to me at mohammad.junaidarif@mail.mcgill.ca
 
 <!---
